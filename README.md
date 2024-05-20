@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 - Internet connection
 - Required Python packages
 
-- **Give Commands**
+### Give Commands 
   - To play a YouTube video: "Play [video name] on YouTube"
   - To play a song on Spotify: "Play [song name] on Spotify"
   - To open an application: "Open [application name]"
